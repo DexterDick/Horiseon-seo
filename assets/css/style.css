@@ -192,7 +192,12 @@ p {
   color: #ffffff;
 } */
 
-.search-engine-optimization img {
+/* added content img to help reduce duplicate code */
+.content img {
+  max-height: 200px;
+}
+
+/* .search-engine-optimization img {
   max-height: 200px;
 }
 
@@ -202,7 +207,7 @@ p {
 
 .social-media-marketing img {
   max-height: 200px;
-}
+} */
 
 .search-engine-optimization h2 {
   margin-bottom: 20px;
